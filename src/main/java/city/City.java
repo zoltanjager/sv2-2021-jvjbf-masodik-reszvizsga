@@ -40,9 +40,6 @@ public class City {
     }
 
 
-
-
-
 //    List<Building> findBuildingsByStreet(String street) {
 //        List<Building> result = new ArrayList<>();
 //        for (Building actual : buildings) {
